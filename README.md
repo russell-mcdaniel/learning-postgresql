@@ -1,2 +1,3 @@
-# learning-postgresql
-A learning project for PostgreSQL
+# Learning PostgreSQL
+
+A learning project for PostgreSQL.
